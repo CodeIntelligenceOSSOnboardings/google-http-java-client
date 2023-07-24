@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.44.0](https://github.com/googleapis/google-http-java-client/compare/v1.43.3...v1.44.0) (2023-07-24)
+
+
+### Features
+
+* Setup 1.43.x lts branch ([#1869](https://github.com/googleapis/google-http-java-client/issues/1869)) ([13edd13](https://github.com/googleapis/google-http-java-client/commit/13edd1357eb79535d943f5288ab3adf4d9dfb52a))
+
 ## [1.43.3](https://github.com/googleapis/google-http-java-client/compare/v1.43.2...v1.43.3) (2023-06-21)
 
 
